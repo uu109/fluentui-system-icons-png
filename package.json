@@ -1,0 +1,22 @@
+{
+  "name": "fluentui-system-icons-png",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uu109/fluentui-system-icons-png.git"
+  },
+  "keywords": [
+    "fluentui"
+  ],
+  "author": "uu109",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uu109/fluentui-system-icons-png/issues"
+  },
+  "homepage": "https://github.com/uu109/fluentui-system-icons-png#readme"
+}
