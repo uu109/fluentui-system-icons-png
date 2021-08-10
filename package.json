@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/uu109/fluentui-system-icons-png/issues"
   },
-  "homepage": "https://github.com/uu109/fluentui-system-icons-png#readme"
+  "homepage": "https://github.com/uu109/fluentui-system-icons-png#readme",
+  "dependencies": {
+    "globby": "^11.0.4",
+    "nuskin": "^1.1.0",
+    "sharp": "^0.28.3"
+  }
 }
